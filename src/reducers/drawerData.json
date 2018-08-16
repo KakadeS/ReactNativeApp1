@@ -1,0 +1,62 @@
+{
+   "channel": {
+      "title": "KT Mobile",
+      "link": "http://www.khaleejtimes.com/",
+      "description": "Mobile Home",
+      "language": "en-gb",
+      "copyright": "Copyright 2018 Galadari Printing and Publishing LLC.",
+      "pubDate": "Tue, 27 Mar 2018 10:59:45 +0200",
+      "category": "Top News Home",
+      "item": [
+         {
+            "title": "Local",
+            "enclosure": {
+               "url": "https://www.khaleejtimes.com/feedimage/897/16by9/storyimage/KT/20180327/ARTICLE/180329201/TS/1/TS-180329201.jpg",
+               "@length": ""
+            }
+         },
+         {
+            "title": "Sports",
+            "enclosure": {
+               "url": "https://www.khaleejtimes.com/feedimage/897/16by9/storyimage/KT/20180327/ARTICLE/180329399/TS/1/TS-180329399.jpg",
+               "@length": ""
+            }
+         },
+         {
+            "title": "Business",
+            "enclosure": {
+               "url": "https://www.khaleejtimes.com/feedimage/897/16by9/storyimage/KT/20180327/ARTICLE/180329226/AR/0/AR-180329226.jpg",
+               "@length": ""
+            }
+         },
+         {
+            "title": "Local",
+            "enclosure": {
+               "url": "https://www.khaleejtimes.com/feedimage/897/16by9/storyimage/KT/20180327/ARTICLE/180329203/AR/0/AR-180329203.jpg",
+               "@length": ""
+            }
+         },
+         {
+            "title": "Sports",
+            "enclosure": {
+               "url": "https://www.khaleejtimes.com/feedimage/897/16by9/storyimage/KT/20180327/ARTICLE/180329192/AR/0/AR-180329192.jpg",
+               "@length": ""
+            }
+         },
+         {
+            "title": "Business",
+            "enclosure": {
+               "url": "https://www.khaleejtimes.com/feedimage/897/16by9/storyimage/KT/20180327/ARTICLE/180329210/AR/0/AR-180329210.jpg",
+               "@length": ""
+            }
+         },
+         {
+            "title": "Local",
+            "enclosure": {
+               "url": "https://www.khaleejtimes.com/feedimage/897/16by9/storyimage/KT/20180327/ARTICLE/180329214/AR/0/AR-180329214.jpg",
+               "@length": ""
+            }
+         }
+      ]
+   }
+}
