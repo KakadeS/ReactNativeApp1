@@ -94,7 +94,6 @@ class TodoListData extends Component {
 
     async removeItemValue(key) {
         try {
-            var itemCount = 0;
             removeItem = await AsyncStorage.getItem('todokey');
             removedItemArray = JSON.parse(removeItem);
             removedItemArray.splice(key, 1);
